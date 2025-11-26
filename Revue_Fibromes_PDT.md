@@ -2,7 +2,7 @@
 
 Ce projet de recherche porte sur l' optimisation des fluorophores organiques pour une thérapie photodynamique appliquée aux fibromes uterins (des tumeurs qui se développent à partir des cellules musculaires lisses de l'utérus). L'objectif est de concevoir, modéliser et benchmarker des sondes photoactives capables d'une double action (imagerie et traitement) via des approches computationnelles avancées. 
 
-***
+
 
 # Introduction 
 
