@@ -5,15 +5,13 @@ Ce projet de recherche porte sur l' optimisation des fluorophores organiques pou
 
 ## Interrogation 1 : Les fibromes utérins, un défi thérapeutique unique nécessitant une approche moléculaire ?
 
-### Interrogation 1 : Les fibromes utérins, un défi thérapeutique nécessitant une approche moléculaire ?
-
 Les fibromes utérins (également appelés léiomyomes ou myomes) représentent la tumeur gynécologique bénigne la plus fréquente chez la femme. Leur développement est fortement hormono-dépendant, en particulier des œstrogènes, ce qui explique leur rareté avant la puberté et leur tendance à régresser après la ménopause.
 
 Le choix des fibromes utérins comme cible thérapeutique pour ce travail de recherche apparaît particulièrement pertinent pour plusieurs raisons :
 
-### ** 1. Un problème de santé publique mondiale**
+**1. Un problème de santé publique mondiale**
 
-###  Prévalence et spécificités régionales
+* **Prévalence et spécificités régionales**
 La prévalence est extrêmement élevée : les myomes se retrouvent chez **20 % à 50 %** des femmes en âge de procréer . Des variations significatives existent selon l'ethnicité, le risque à vie dépassant **80 % chez les femmes noires** contre **$70 \%$ chez les femmes blanche**s .
 
 En **Afrique subsaharienne**, les fibromes représentent un problème de santé publique majeur \cite{Hortence2021}.
@@ -22,7 +20,7 @@ En **Afrique subsaharienne**, les fibromes représentent un problème de santé 
 
 
 
-### 2.  Limitations des traitements actuels
+**2.  Limitations des traitements actuels**
 
 Les thérapies existantes présentent des inconvénients majeurs :
 
@@ -36,7 +34,7 @@ Les thérapies existantes présentent des inconvénients majeurs :
 
 **Besoin médical non satisfait** : Une thérapie **sélective**, **minimalement invasive**, **préservant la fertilité** et **ciblant spécifiquement les cellules léiomyomateuses**.
 
-#### **3. Les fibromes comme modèle biologique unique**
+**3. Les fibromes comme modèle biologique unique**
 
 Contrairement aux cancers, les fibromes sont des **tumeurs bénignes hormono-dépendantes** avec une biologie distincte :
 
@@ -58,12 +56,25 @@ Le mécanisme est basé sur une interaction de trois éléments non toxiques :
 3.  L'**illumination** par une lumière de longueur d'onde spécifique.
 
 
-### 2.2. Preuves de concept PDT dans les pathologies utérines
+Le succès d'une PDT pour les fibromes repose sur la résolution **simultanée et intégrée** de trois défis :
 
-L'accessibilité endoscopique à l'utérus place la PDT au premier plan pour le traitement des lésions endométriales.
+#### **1. Le défi biologique : Cibler sélectivement les fibromes**
 
-*   **Préservation de la fertilité dans le cancer endométrial** : La PDT a été évaluée comme une stratégie conservatrice pour les jeunes patientes atteintes de cancer de l'endomètre de stade précoce \cite{Choi2013, CorreiaBarros2022}. Une étude de suivi à long terme a montré que l'application de PDT après injection intraveineuse d'un photosensibilisateur, suivie d'une illumination au laser rouge (630 nm), a permis une **préservation de la fertilité** avec des taux de réponse complète pathologique \cite{Choi2013}.
-*   **Adénomyose et endométriose** : Le traitement de l'**adénomyose** est difficile, car les approches chirurgicales conservatrices (adénomyomectomie) présentent un **risque élevé de rupture utérine** pendant la grossesse \cite{CorreiaBarros2022a}. Cependant, la TPD utilisant le précurseur **5-Aminolévulinique (5-ALA)** est prometteuse car les cellules d'adénomyose présentent une susceptibilité et une absorption du 5-ALA supérieures au tissu environnant \cite{CorreiaBarros2022a}. Le 5-ALA est également utilisé pour l'**ablation endométriale** et le traitement de l'**endométriose** \cite{CorreiaBarros2022}.
+##### **Problématique**
+
+## 3. Problématique
+
+Les fibromes utérins constituent un enjeu majeur de santé publique, et les options thérapeutiques actuellement disponibles demeurent limitées, en particulier pour les patientes souhaitant préserver leur fertilité.
+La PDT, bien qu’elle ait montré un fort potentiel dans le traitement de cancer en gynécologie, ne dispose encore d’aucun photosensibilisateur spécifiquement conçu pour cibler les cellules de fibrome, ce qui limite son application clinique.
+
+De plus, la mise en œuvre de la PDT dans les myomes se heurte à deux types de défis :
+
+*  **Biologiques**, liés aux particularités cellulaires et moléculaires du fibrome ;
+
+* **Physiques**, en particulier la pénétration limitée de la lumière dans les tissus utérins profonds.
+
+Dans ce contexte, se pose la **question centrale** :  Comment surmonter les defis biologiques et physiques (pénétration lumineuse) de la PDT dans le diagnostique et le traitement des fibromes utérin, afin d’assurer un traitement sélectif des fibromes tout en préservant le myomètre sain ?
+
 
 
 ### 2.3. Avancées technologiques et conception de sondes photoactives
@@ -77,18 +88,7 @@ Pour que la PDT soit efficace contre les fibromes, qui sont des tumeurs myométr
 
 
 
-## 3. Problématique
 
-Les fibromes utérins constituent un enjeu majeur de santé publique, et les options thérapeutiques actuellement disponibles demeurent limitées, en particulier pour les patientes souhaitant préserver leur fertilité.
-La (PDT), bien qu’elle ait montré un fort potentiel dans le traitement de cancer en gynécologie, ne dispose encore d’aucun photosensibilisateur spécifiquement conçu pour cibler les cellules de fibrome, ce qui limite son application clinique.
-
-De plus, la mise en œuvre de la PDT dans les myomes se heurte à deux types de défis :
-
-*  **Biologiques**, liés aux particularités cellulaires et moléculaires du fibrome ;
-
-* **Physiques**, en particulier la pénétration limitée de la lumière dans les tissus utérins profonds.
-
-Dans ce contexte, se pose la **question centrale** :  Comment surmonter les defis biologiques et physiques (pénétration lumineuse) de la PDT dans le diagnostique et le traitement des fibromes utérin, afin d’assurer un traitement sélectif des fibromes tout en préservant le myomètre sain ?
 
 ## 3. Justification du projet et objectifs
 
