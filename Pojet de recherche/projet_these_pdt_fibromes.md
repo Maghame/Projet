@@ -1,8 +1,7 @@
-# PROJET DE THÈSE DE DOCTORAT
 
-## Thérapie Photodynamique Ciblée pour le Traitement des Fibromes Utérins : Conception Rationnelle d'Agents Théranostiques et Stratégies de Pénétration Profonde
 
----
+## Thérapie photodynamique ciblée pour le traitement des fibromes utérins
+
 
 ## 1. Introduction et Objectifs : Vers une Révolution Thérapeutique en Gynécologie
 
