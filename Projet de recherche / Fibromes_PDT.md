@@ -60,9 +60,7 @@ Le mécanisme est basé sur une interaction de trois éléments non toxiques :
 ##  Problématique
 
 Les fibromes utérins constituent un enjeu majeur de santé publique, et les options thérapeutiques actuellement disponibles demeurent limitées, en particulier pour les patientes souhaitant préserver leur fertilité.
-La PDT, bien qu’elle ait montré un fort potentiel dans le traitement de cancer en gynécologie, ne dispose encore d’aucun photosensibilisateur spécifiquement conçu pour cibler les cellules de fibrome, ce qui limite son application clinique.
-
-De plus, la mise en œuvre de la PDT dans les myomes se heurte à deux types de défis :
+La PDT, bien qu’elle ait montré un fort potentiel dans le traitement de cancer en gynécologie, ne dispose encore d’aucun photosensibilisateur spécifiquement conçu pour cibler les cellules de fibrome, ce qui limite son application clinique. De plus, la mise en œuvre de la PDT dans les myomes se heurte à deux types de défis :
 
 *  **Biologiques**, liés aux particularités cellulaires et moléculaires du fibrome ;
 
@@ -85,18 +83,19 @@ Pour que la PDT soit efficace contre les fibromes, qui sont des tumeurs myométr
 
 ## 3. Justification du projet et objectifs
 
-### 3.1. Justification : La nécessité de la conception moléculaire *In Silico*
+Malgré le potentiel prometteur de la photothérapie dynamique (PDT), son application au traitement des fibromes reste limitée par l’absence de photosensibilisateurs présentant des propriétés physico-chimiques optimales, notamment une bonne solubilité, un rendement élevé en oxygène singulet et une absorption efficace en profondeur tissulaire.
 
-Malgré le potentiel de la PDT, son application aux fibromes intramuraux est limitée par le manque de photosensibilisateurs dotés des propriétés physico-chimiques optimales (bonne solubilité, fort rendement quantique en oxygène singulet et absorption profonde).
+Dans ce contexte, la modélisation moléculaire et la chimie computationnelle apparaissent comme des outils essentiels pour le développement rationnel de photosensibilisateurs. Elles permettent de prédire l’efficacité photodynamique, notamment à travers l’estimation du couplage spin-orbite et du rendement en oxygène singulet, ainsi que d’optimiser les propriétés d’absorption dans la fenêtre du proche infrarouge, en amont de la synthèse expérimentale.
 
-La **modélisation moléculaire** et la **chimie computationnelle** constituent des outils fondamentaux pour le développement rationnel d'agents photoactifs de troisième génération \cite{Correia2021}. Ces outils permettent de **prédire l'efficacité photodynamique** (par l'estimation du SOC et du rendement en oxygène singulet) et d'**optimiser l'absorption dans la fenêtre NIR** avant la synthèse expérimentale.
+Ce projet vise, en premier lieu, à explorer la photothérapie dynamique comme une approche thérapeutique innovante et mini-invasive pour le traitement des fibromes utérins, en alternative aux options conventionnelles souvent lourdes, invasives et coûteuses.
+En second lieu, il s’attache à évaluer la pertinence de cette stratégie dans le contexte africain, où la prévalence des fibromes est particulièrement élevée et où le besoin de solutions thérapeutiques accessibles, économiquement viables et préservant la fertilité est crucial.
+Enfin, ce travail ambitionne d’identifier les principaux défis et opportunités liés à l’implémentation de la PDT en Afrique subsaharienne, tout en ouvrant des pistes de réflexion sur les axes de recherche nécessaires pour adapter cette approche aux réalités locales.
 
 
 ## 4. Objectifs
 
 ### Objectif général
-L'objectif de ce projet est d'exploiter les avancées théoriques (telles que l'utilisation de méthodes comme l'**ADC(2)** pour les énergies d'excitation, le calcul du **SOC** par TD-DFT pour les tendances \cite{accuracy-of-spin-component-scaled-adc(2)-excitation-energies-and-potential-energy-surfaces.pdf}) pour concevoir, modéliser et évaluer des photosensibilisateurs de 3ᵉ génération adapté à la thérapie photodynamique des fibromes utérins afin de proposer une stratégie thérapeutique innovante et applicable en santé publique.
-
+L'objectif de ce projet est d'exploiter les avancées théoriques (telles que l'utilisation de méthodes comme l'**ADC(2)** pour les énergies d'excitation, le calcul du **SOC** par TD-DFT.
 
 ## 5. Hypothèses de recherche
 
